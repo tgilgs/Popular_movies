@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="image_descriptor">Image of movie poster</string>
+    <string name="no_info">N/A</string>
+    <string name="movie_description">Movie Description:</string>
+    <string name="average_rating">Average Viewer Score:</string>
+</resources>
